@@ -1,0 +1,4 @@
+program started
+something happened
+something else happened
+program halted
